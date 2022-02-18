@@ -1,0 +1,16 @@
+w=10
+h=12
+00=x11xx1xxxxx
+01=1xx13x3x23x
+02=x21xxx1xxx1
+03=1x222xx332x
+04=x1x2xxxx3x1
+05=xxx21xx1x2x
+06=x3x1xxxx221
+07=x11x33x123x
+08=x222x12x1xx
+09=xx1x2xxx31x
+10=x1xx222x1x1
+11=123221xxx2x
+12=xx1xxxxx0xx
+!
